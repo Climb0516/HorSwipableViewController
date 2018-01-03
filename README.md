@@ -1,5 +1,5 @@
 # HorSwipableViewController
-自定义网易新闻标签栏样式
+====自定义网易新闻标签栏样式===
 效果图：
 ![Alt text](https://github.com/Climb0516/HorSwipableViewController/raw/master/Screenshots/1.png)
 ![Alt text](https://github.com/Climb0516/HorSwipableViewController/raw/master/Screenshots/2.png)
